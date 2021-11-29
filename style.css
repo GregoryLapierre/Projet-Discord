@@ -1,0 +1,172 @@
+*{margin: 0;}
+    
+body{
+    overflow-x: hidden;}
+    
+header{width:100%;
+    height: 114vh;
+    background-color:rgb(64, 78,237);
+}
+ 
+.logodiscord{
+    color: white;
+    margin: 23px 51px;
+    padding: 0px 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.bloclien a
+{ color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bloclien{padding-top: 30px;
+   }
+
+.bloclien a:hover{
+    text-decoration: underline ;
+    }
+
+.seconnecter{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    margin: 22px 50px;
+    padding: 12px 15px 0px 15px;
+    border-radius: 30px;
+    font-size: 12px;
+}
+
+.seconnecter:hover{
+    color: rgb(64, 78,237);
+    box-shadow: 0px 8px 22px -10px black;
+}
+
+.fond8{
+    position: absolute;
+    bottom: -84px;
+    z-index: 1;
+    left: -635px;
+  }
+
+.fond1{z-index: 2;
+    position: absolute;
+    bottom: -84px;
+    left: -387px;
+}
+
+.fond2{
+    position: absolute;
+    z-index: 2;
+    bottom: -84px;
+    left: 1010px;
+}
+
+h1{text-align: center;
+   font-size:56px; 
+   font-family: Arial Black;
+   color: white;
+   margin:118px 300px 40px 300px;
+   line-height: 52px;
+   z-index: 3;
+   position: relative;
+   
+}
+
+.p1
+{text-align: center;
+    color: white;
+    margin-left:250px ;
+    margin-right: 250px;
+font-size: 19px;
+font-family: Arial, Helvetica, sans-serif;
+line-height:35px ;
+z-index: 3;
+position: absolute;
+}
+
+.telouvrir{
+    display: flex;
+    justify-content: center;
+}
+
+.telecharger{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 18px 33px 18px 60px;
+    border-radius: 30px;
+    font-size: large;}
+
+.ouvrir{
+        background-color: rgb(35, 39,42);
+        text-decoration: none;
+        color: white;  
+        padding: 18px 33px;
+        border-radius: 30px;
+        font-size: large;}
+ 
+     
+.bloc-tel-ouv a{
+    text-decoration: none;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+ }
+
+ .bloc-tel-ouv{
+    padding-top: 180px;
+    z-index: 3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.p5
+{text-align: center;}
+
+
+.t2,.t4
+{text-align: right;
+    font-size:40px;
+}
+
+.p2,.p4
+{text-align: right;}
+
+h2{text-align: center;
+    font-size:50px; 
+    font-family: Arial Black}
+
+h4{text-align: center;
+    font-size:30px; }
+
+
+
+
